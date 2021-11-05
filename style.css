@@ -50,8 +50,7 @@ nav div {
 }
 
 nav div:hover, nav div.selected {
-    background-color: white;
-    color: rgb(55, 121, 220);
+    background-color: #97DFDF;
 }
 
 nav.sticky {
@@ -92,10 +91,6 @@ p {
 section.white a, section.white a:visited {
     color: rgb(55, 121, 220);
     font-weight: bold;
-}
-
-footer a, footer a:visited {
-    color: white;
 }
 
 section {
